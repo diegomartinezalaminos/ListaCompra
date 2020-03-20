@@ -2,5 +2,5 @@
 
 Este programa se utiliza para crear, visualizar y eliminar las listas de la compra de la semana
 
-<img hrf="Captura.png">
+<img src="Captura.PNG">
 
